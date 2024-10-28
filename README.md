@@ -11,7 +11,7 @@
   <a href="https://open.spotify.com/user/esjscw0tco67qohpnmznbh4kt"><img src="https://img.shields.io/badge/spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify Badge" height="30px"/></a>
 </div>
 
--   🔭: I’m a student of Bachelor Of Technology in Computer Science and contribute to frontend and backend for building web applications.
+-   🔭  I’m a student of Bachelor Of Technology in Computer Science and contribute to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on leetCode and listen to music.
 
