@@ -11,15 +11,15 @@
   <a href="https://open.spotify.com/user/esjscw0tco67qohpnmznbh4kt"><img src="https://img.shields.io/badge/spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify Badge" height="30px"/></a>
 </div>
 
-<p>________________________________________________________________________________________________________________________________________________________</p>
+<p>_________________________________________________________________________________________________________________________________________________</p>
 -   🔭: I’m a student of Bachelor Of Technology in Computer Science and contribute to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on leetCode and listen to music.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/utkarshdubey15)
 
-<p>________________________________________________________________________________________________________________________________________________________</p>
-<div>
+<p>_________________________________________________________________________________________________________________________________________________</p>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
