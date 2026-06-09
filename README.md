@@ -117,14 +117,14 @@ const utkarsh = {
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshdubey15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdubey15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshh7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukarshh7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=utkarshdubey15&theme=tokyonight&hide_border=true&border_radius=5)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=utkarshh7&theme=tokyonight&hide_border=true&border_radius=5)
 
 </div>
 
