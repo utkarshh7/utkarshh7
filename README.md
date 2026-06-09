@@ -4,7 +4,7 @@
 <!-- Profile Views + Social -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=utkarshdubey15&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=utkarshh7&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)
 
 </div>
 
