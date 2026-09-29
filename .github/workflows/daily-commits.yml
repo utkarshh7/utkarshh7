@@ -1,0 +1,42 @@
+name: Daily Commits
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "utkarshh7"
+          git config user.email "utkarshdubey2016@gmail.com"
+
+      - name: Make random commits
+        run: |
+          COMMITS=$((RANDOM % 6 + 1))
+
+          echo "Making $COMMITS commits today"
+
+          for i in $(seq 1 $COMMITS)
+          do
+            echo "Daily activity: $(date -u)" > daily-commit.txt
+            echo "Commit: $i" >> daily-commit.txt
+
+            git add daily-commit.txt
+            git commit -m "chore: daily contribution $i"
+          done
+
+      - name: Push commits
+        run: git push
